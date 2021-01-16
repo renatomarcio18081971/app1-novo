@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+img{
+    margin-left: 50%;
+    border-color: salmon;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+    color: sandybrown;
+    text-align: center;
+}
