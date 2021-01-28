@@ -8,6 +8,6 @@ import { Component } from '@angular/core'
 })
 
 export class TopoComponent {
-
+    public Titulo: string = 'Aprendendo Inglês !!!!!'
 
 }
